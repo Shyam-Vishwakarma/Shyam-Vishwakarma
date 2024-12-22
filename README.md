@@ -30,7 +30,7 @@ I'm Shyam Vishwakarma, a third year undergrad B. Tech student.</br>
 - Tech Stack: [Technologies]
 - [Live Demo](link) | [GitHub](link)--->
 
-# Recent Activity :zap:
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
