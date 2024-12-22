@@ -2,10 +2,10 @@
 I'm Shyam Vishwakarma, a third year undergrad B. Tech student.</br>
 🤝 Connect with me
     <p align="left" display="block">
-  <a href="your-linkedin-url">
+  <a href="https://www.linkedin.com/in/shyam-vishwakarma">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="your-twitter-url">
+  <a href="https://x.com/_shyam_v?t=ADOyWzHN8x5WXXqHPL3Lrg&s=09">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
