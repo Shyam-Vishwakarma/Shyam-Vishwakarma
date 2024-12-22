@@ -32,6 +32,11 @@ I'm Shyam Vishwakarma, a third year undergrad B. Tech student.</br>
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#169](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/169) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+2. 🗣 Commented on [#167](https://github.com/Real-Dev-Squad/skill-tree-backend/issues/167#issuecomment-2438355192) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+3. ❗ Opened issue [#167](https://github.com/Real-Dev-Squad/skill-tree-backend/issues/167) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+4. 💪 Opened PR [#161](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/161) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+5. 🗣 Commented on [#159](https://github.com/Real-Dev-Squad/skill-tree-backend/issues/159#issuecomment-2407958944) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
 <!--END_SECTION:activity-->
 
 ## 🛠️ Skills & Technologies
