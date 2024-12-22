@@ -29,6 +29,11 @@ I'm Shyam Vishwakarma, a third year undergrad B. Tech student.</br>
 - Description: Brief project description
 - Tech Stack: [Technologies]
 - [Live Demo](link) | [GitHub](link)--->
+
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 🛠️ Skills & Technologies
 
 <p align="left">
