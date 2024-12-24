@@ -42,11 +42,12 @@
 5. 🗣 Commented on [#159](https://github.com/Real-Dev-Squad/skill-tree-backend/issues/159#issuecomment-2407958944) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
 <!--END_SECTION:activity-->
 ##
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
   <!-- Profile Details -->
+  <!---
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shyam-vishwakarma&theme=transparent" alt="Profile Details" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-vishwakarma&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  
+  --->
 
 <!---<div align="left">
   <!-- GitHub Stats Card -->
