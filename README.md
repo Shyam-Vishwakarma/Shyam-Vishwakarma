@@ -56,16 +56,8 @@
 <div align="left">
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shyam-vishwakarma&theme=transparent" alt="Github stats" />
-
-
-  <!-- Productive Time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shyam-vishwakarma&theme=transparent&utcOffset=8" alt="Productive Time" />
-
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vishwakarma&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
 <div align="left">
-  <!-- GitHub Streak Stats -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vishwakarma&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
   <!-- Commits per Language -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shyam-vishwakarma&theme=transparent&exclude=html&hide_border=false" alt="Commits per Language" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shyam-vishwakarma&theme=transparent&exclude=html" alt="repos-per-language" />
