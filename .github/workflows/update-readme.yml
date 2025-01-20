@@ -12,12 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@v0.1.0
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          MAX_LINES: 10
-      - name: Debug Information
-        run: |
-          echo "Debugging Information"
-          ls -la
