@@ -35,11 +35,11 @@
 ##
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#177](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/177) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
-2. ❗ Opened issue [#170](https://github.com/Real-Dev-Squad/skill-tree-backend/issues/170) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
-3. 💪 Opened PR [#169](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/169) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
-4. 🗣 Commented on [#167](https://github.com/Real-Dev-Squad/skill-tree-backend/issues/167#issuecomment-2438355192) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
-5. ❗ Opened issue [#167](https://github.com/Real-Dev-Squad/skill-tree-backend/issues/167) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+1. 🗣 Commented on [#177](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/177#issuecomment-2602850102) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+2. 💪 Opened PR [#177](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/177) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+3. ❗ Opened issue [#170](https://github.com/Real-Dev-Squad/skill-tree-backend/issues/170) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+4. 💪 Opened PR [#169](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/169) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+5. 🗣 Commented on [#167](https://github.com/Real-Dev-Squad/skill-tree-backend/issues/167#issuecomment-2438355192) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
 <!--END_SECTION:activity-->
 ##
 ### 📊 GitHub Metrics
