@@ -16,5 +16,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          GH_USERNAME: Shyam-Vishwakarma
+          COMMIT_NAME: GitHub Activity Readme
+          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
           COMMIT_MSG: "⚡ Update README with the recent activity"
+          EMPTY_COMMIT_MSG: "📝 empty commit to keep workflow active after 60 days of no activity"
           MAX_LINES: 10
+          TARGET_FILE: README.md
