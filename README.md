@@ -47,7 +47,6 @@
 🪼  Commented on [#167](https://api.github.com/repos/Real-Dev-Squad/skill-tree-backend/issues/167) in [Real-Dev-Squad/skill-tree-backend](https://api.github.com/repos/Real-Dev-Squad/skill-tree-backend)
 
 🪼  Opened issue [#167](https://api.github.com/repos/Real-Dev-Squad/skill-tree-backend/issues/167) in [Real-Dev-Squad/skill-tree-backend](https://api.github.com/repos/Real-Dev-Squad/skill-tree-backend)
-
 <!--END_SECTION:activity-->
 ##
 ### 📊 GitHub Metrics
