@@ -25,4 +25,4 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         USERNAME: ${{ github.repository_owner }}
         MAX_LINES: 10
-        TRACK_EVENTS: ${{ github.event.inputs.events }}
+        TRACK_EVENTS: ${{ 'PullRequestEvent,IssuesEvent,IssueCommentEvent' }}
