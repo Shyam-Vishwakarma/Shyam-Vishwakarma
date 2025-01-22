@@ -35,7 +35,7 @@
 ##
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#177](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/177#issuecomment-2602850102) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+1 🗣️  Commented on [#177](https://api.github.com/repos/Real-Dev-Squad/skill-tree-backend/issues/177) in [Real-Dev-Squad/skill-tree-backend](https://api.github.com/repos/Real-Dev-Squad/skill-tree-backend)</br></br></br></br></br></br></br></br>9 💪🏻  Opened PR [#177](https://api.github.com/repos/Real-Dev-Squad/skill-tree-backend/pulls/177) in [Real-Dev-Squad/skill-tree-backend](https://api.github.com/repos/Real-Dev-Squad/skill-tree-backend)</br>
 <!--END_SECTION:activity-->
 ##
 ### 📊 GitHub Metrics
