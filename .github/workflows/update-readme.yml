@@ -10,12 +10,11 @@ on:
         required: false
         default: 'PullRequestEvent,IssuesEvent,IssueCommentEvent,WatchEvent,PushEvent'
 
-permissions:
-  contents: write
-
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
     - uses: actions/checkout@v3
