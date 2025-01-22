@@ -11,7 +11,7 @@ on:
         default: 'PullRequestEvent,IssuesEvent,IssueCommentEvent,WatchEvent,PushEvent'
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -25,4 +25,4 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         USERNAME: ${{ github.repository_owner }}
         MAX_LINES: 10
-        TRACK_EVENTS: ${{ 'PullRequestEvent,IssuesEvent' }}
+        TRACK_EVENTS: ${{ 'PullRequestEvent,IssuesEvent,IssueCommentEvent' }}
