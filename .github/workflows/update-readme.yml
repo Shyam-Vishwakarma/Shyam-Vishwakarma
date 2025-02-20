@@ -1,28 +1,17 @@
-name: Update README Activity
-
+name: Update README
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: "*/30 * * * *"
   workflow_dispatch:
-    inputs:
-      events:
-        description: 'Events to track'
-        required: false
-        default: 'PullRequestEvent,IssuesEvent,IssueCommentEvent,WatchEvent,PushEvent'
-
 jobs:
-  update-readme:
+  build:
+    name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
-    - uses: actions/checkout@v3
-    
-    - name: Update README
-      uses: Shyam-Vishwakarma/github-footprints@main
-      with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        USERNAME: ${{ github.repository_owner }}
-        MAX_LINES: 10
-        TRACK_EVENTS: ${{ 'PullRequestEvent,IssuesEvent,IssueCommentEvent' }}
+      - uses: actions/checkout@v3
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
