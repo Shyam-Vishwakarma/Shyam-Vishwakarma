@@ -35,8 +35,8 @@
 ##
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#190](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/190) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
-2. ❗ Opened issue [#189](https://github.com/Real-Dev-Squad/skill-tree-backend/issues/189) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+1. 🎉 Merged PR [#4](https://github.com/Shyam-Vishwakarma/imaging-ai-backend/pull/4) in [Shyam-Vishwakarma/imaging-ai-backend](https://github.com/Shyam-Vishwakarma/imaging-ai-backend)
+2. 💪 Opened PR [#4](https://github.com/Shyam-Vishwakarma/imaging-ai-backend/pull/4) in [Shyam-Vishwakarma/imaging-ai-backend](https://github.com/Shyam-Vishwakarma/imaging-ai-backend)
 <!--END_SECTION:activity-->
 ##
 ### 📊 GitHub Metrics
