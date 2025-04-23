@@ -35,11 +35,11 @@
 ##
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed PR [#10](https://github.com/Shyam-Vishwakarma/imaging-ai-backend/pull/10) in [Shyam-Vishwakarma/imaging-ai-backend](https://github.com/Shyam-Vishwakarma/imaging-ai-backend)
-2. 💪 Opened PR [#10](https://github.com/Shyam-Vishwakarma/imaging-ai-backend/pull/10) in [Shyam-Vishwakarma/imaging-ai-backend](https://github.com/Shyam-Vishwakarma/imaging-ai-backend)
-3. 🔒 Closed PR [#9](https://github.com/Shyam-Vishwakarma/imaging-ai-backend/pull/9) in [Shyam-Vishwakarma/imaging-ai-backend](https://github.com/Shyam-Vishwakarma/imaging-ai-backend)
-4. 💪 Opened PR [#9](https://github.com/Shyam-Vishwakarma/imaging-ai-backend/pull/9) in [Shyam-Vishwakarma/imaging-ai-backend](https://github.com/Shyam-Vishwakarma/imaging-ai-backend)
-5. 🔒 Closed PR [#8](https://github.com/Shyam-Vishwakarma/imaging-ai-backend/pull/8) in [Shyam-Vishwakarma/imaging-ai-backend](https://github.com/Shyam-Vishwakarma/imaging-ai-backend)
+1. 💪 Opened PR [#194](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/194) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+2. 🔒 Closed PR [#10](https://github.com/Shyam-Vishwakarma/imaging-ai-backend/pull/10) in [Shyam-Vishwakarma/imaging-ai-backend](https://github.com/Shyam-Vishwakarma/imaging-ai-backend)
+3. 💪 Opened PR [#10](https://github.com/Shyam-Vishwakarma/imaging-ai-backend/pull/10) in [Shyam-Vishwakarma/imaging-ai-backend](https://github.com/Shyam-Vishwakarma/imaging-ai-backend)
+4. 🔒 Closed PR [#9](https://github.com/Shyam-Vishwakarma/imaging-ai-backend/pull/9) in [Shyam-Vishwakarma/imaging-ai-backend](https://github.com/Shyam-Vishwakarma/imaging-ai-backend)
+5. 💪 Opened PR [#9](https://github.com/Shyam-Vishwakarma/imaging-ai-backend/pull/9) in [Shyam-Vishwakarma/imaging-ai-backend](https://github.com/Shyam-Vishwakarma/imaging-ai-backend)
 <!--END_SECTION:activity-->
 ##
 ### 📊 GitHub Metrics
