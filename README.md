@@ -1,15 +1,11 @@
 ### Hi there 👋
 🙌 I'm Shyam Vishwakarma, a third-year undergrad with a keen interest in open-source contributions, collaborations and building impactful projects.
 <p></p>
-
 <p align="left">
     🤝 Connect with me on
-  <a href="https://www.linkedin.com/in/shyam-vishwakarma">
-    LinkedIn
-  </a>, 
-  <a href="https://x.com/_shyam_v?t=ADOyWzHN8x5WXXqHPL3Lrg&s=09">
-    X (Twitter)
-  </a>
+  <a href="https://www.linkedin.com/in/shyam-vishwakarma">LinkedIn</a>
+    &nbsp;
+  <a href="https://x.com/_shyam_v?t=ADOyWzHN8x5WXXqHPL3Lrg&s=09">X (Twitter)</a>
 </p>
 
 <!---## 🚀 Experience
@@ -59,7 +55,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shyam-vishwakarma&theme=transparent" alt="Github stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vishwakarma&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
 <div align="left">
-  <!-- Commits per Language -->
+    
+<!--
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shyam-vishwakarma&theme=transparent&exclude=html&hide_border=false" alt="Commits per Language" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shyam-vishwakarma&theme=transparent&exclude=html" alt="repos-per-language" />
 </div>
@@ -70,3 +67,6 @@
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=shyam-vishwakarma&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=4" alt="GitHub Trophies" />
 </div>
+-->
+
+
