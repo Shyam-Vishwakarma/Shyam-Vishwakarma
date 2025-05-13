@@ -31,11 +31,11 @@
 ##
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#198](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/198) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
-2. ❗ Opened issue [#197](https://github.com/Real-Dev-Squad/skill-tree-backend/issues/197) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
-3. 
-4. 💪 Opened PR [#194](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/194) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
-5. 🔒 Closed PR [#10](https://github.com/Shyam-Vishwakarma/imaging-ai-backend/pull/10) in [Shyam-Vishwakarma/imaging-ai-backend](https://github.com/Shyam-Vishwakarma/imaging-ai-backend)
+1. 
+2. 💪 Opened PR [#198](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/198) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+3. ❗ Opened issue [#197](https://github.com/Real-Dev-Squad/skill-tree-backend/issues/197) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+4. 
+5. 💪 Opened PR [#194](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/194) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
 <!--END_SECTION:activity-->
 ##
 ### 📊 GitHub Metrics
