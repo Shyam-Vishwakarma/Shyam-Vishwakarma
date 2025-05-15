@@ -35,7 +35,6 @@
 2. 💪 Opened PR [#198](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/198) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
 3. ❗ Opened issue [#197](https://github.com/Real-Dev-Squad/skill-tree-backend/issues/197) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
 4. 
-5. 💪 Opened PR [#194](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/194) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
 <!--END_SECTION:activity-->
 ##
 ### 📊 GitHub Metrics
