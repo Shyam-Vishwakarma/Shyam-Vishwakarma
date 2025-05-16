@@ -31,10 +31,11 @@
 ##
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 
-2. 💪 Opened PR [#198](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/198) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
-3. ❗ Opened issue [#197](https://github.com/Real-Dev-Squad/skill-tree-backend/issues/197) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
-4. 
+1. ❗ Opened issue [#202](https://github.com/Real-Dev-Squad/skill-tree-backend/issues/202) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+2. ❗ Opened issue [#201](https://github.com/Real-Dev-Squad/skill-tree-backend/issues/201) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+3. 
+4. 💪 Opened PR [#198](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/198) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+5. ❗ Opened issue [#197](https://github.com/Real-Dev-Squad/skill-tree-backend/issues/197) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
 <!--END_SECTION:activity-->
 ##
 ### 📊 GitHub Metrics
