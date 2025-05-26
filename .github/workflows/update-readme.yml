@@ -22,4 +22,4 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_LINES: 5
           TARGET_FILE: README.md
-          TRACK_EVENTS: "PullRequestEvent,IssuesEvent"
+          TRACK_EVENTS: "PullRequestEvent, IssuesEvent, PullRequestReviewEvent"
