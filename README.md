@@ -31,11 +31,10 @@
 ##
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#207](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/207) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
-2. 🔒 Closed PR [#1](https://github.com/shyam-vishwakarma/github-footprints/pull/1) in [shyam-vishwakarma/github-footprints](https://github.com/shyam-vishwakarma/github-footprints)
-3. 💪 Opened PR [#1](https://github.com/shyam-vishwakarma/github-footprints/pull/1) in [shyam-vishwakarma/github-footprints](https://github.com/shyam-vishwakarma/github-footprints)
-4. 💪 Opened PR [#204](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/204) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
-5. 🔒 Closed PR [#203](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/203) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+1. 💪 Opened PR [#208](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/208) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+2. 💪 Opened PR [#207](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/207) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+3. 🔒 Closed PR [#1](https://github.com/shyam-vishwakarma/github-footprints/pull/1) in [shyam-vishwakarma/github-footprints](https://github.com/shyam-vishwakarma/github-footprints)
+4. 💪 Opened PR [#1](https://github.com/shyam-vishwakarma/github-footprints/pull/1) in [shyam-vishwakarma/github-footprints](https://github.com/shyam-vishwakarma/github-footprints)
 <!--END_SECTION:activity-->
 ##
 ### 📊 GitHub Metrics
