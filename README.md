@@ -34,7 +34,6 @@
 1. 💪 Opened PR [#1](https://github.com/Shyam-Vishwakarma/RDS-todo-backend/pull/1) in [Shyam-Vishwakarma/RDS-todo-backend](https://github.com/Shyam-Vishwakarma/RDS-todo-backend)
 2. 💪 Opened PR [#208](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/208) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
 3. 💪 Opened PR [#207](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/207) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
-4. 🔒 Closed PR [#1](https://github.com/shyam-vishwakarma/github-footprints/pull/1) in [shyam-vishwakarma/github-footprints](https://github.com/shyam-vishwakarma/github-footprints)
 <!--END_SECTION:activity-->
 ##
 ### 📊 GitHub Metrics
