@@ -1,8 +1,10 @@
 ### Hi there 👋
-🙌 I'm Shyam Vishwakarma, a third-year undergrad with a keen interest in open-source contributions, collaborations and building impactful projects.
+🙌 I’m Shyam Vishwakarma, a Full Stack Developer and active Open Source Contributor. I build frontends using React.js and Next.js, and develop web services with Java, Spring Boot. I'm experienced in web-development through projects, internship, open source contributions and freelancing.
+<p></p>
+I’m amenable to new opportunities, collaborations, or building connections.
 <p></p>
 <p align="left">
-    🤝 Connect with me on
+    🤝 Find me on
   <a href="https://www.linkedin.com/in/shyam-vishwakarma">LinkedIn</a>
     &nbsp;
   <a href="https://x.com/_shyam_v?t=ADOyWzHN8x5WXXqHPL3Lrg&s=09">X (Twitter)</a>
