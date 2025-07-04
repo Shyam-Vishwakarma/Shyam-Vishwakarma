@@ -33,8 +33,8 @@ I’m amenable to new opportunities, collaborations, or building connections.
 ##
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Shyam-Vishwakarma/RDS-todo-backend/pull/1) in [Shyam-Vishwakarma/RDS-todo-backend](https://github.com/Shyam-Vishwakarma/RDS-todo-backend)
-2. 💪 Opened PR [#208](https://github.com/Real-Dev-Squad/skill-tree-backend/pull/208) in [Real-Dev-Squad/skill-tree-backend](https://github.com/Real-Dev-Squad/skill-tree-backend)
+1. 🔒 Closed PR [#23](https://github.com/Shyam-Vishwakarma/DSA/pull/23) in [Shyam-Vishwakarma/DSA](https://github.com/Shyam-Vishwakarma/DSA)
+2. 💪 Opened PR [#1](https://github.com/Shyam-Vishwakarma/RDS-todo-backend/pull/1) in [Shyam-Vishwakarma/RDS-todo-backend](https://github.com/Shyam-Vishwakarma/RDS-todo-backend)
 <!--END_SECTION:activity-->
 ##
 ### 📊 GitHub Metrics
