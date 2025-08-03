@@ -33,7 +33,7 @@ I’m amenable to new opportunities, collaborations, or building connections.
 ##
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed PR [#23](https://github.com/Shyam-Vishwakarma/DSA/pull/23) in [Shyam-Vishwakarma/DSA](https://github.com/Shyam-Vishwakarma/DSA)
+
 <!--END_SECTION:activity-->
 ##
 ### 📊 GitHub Metrics
