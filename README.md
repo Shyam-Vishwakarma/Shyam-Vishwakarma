@@ -1,5 +1,5 @@
 ### Hi there 👋
-🙌 I’m Shyam Vishwakarma, a Full Stack Developer and active Open Source Contributor. I build frontends using React.js and Next.js, and develop web services with Java, Spring Boot. I'm experienced in web-development through projects, internship, open source contributions and freelancing.
+🙌 I’m Shyam Vishwakarma, a DevOps Engineer, SDE and Open Source Contributor. I'm experienced in web-development and DevOps through projects, internship, open source contributions and freelancing.
 <p></p>
 I’m amenable to new opportunities, collaborations, or building connections.
 <p></p>
