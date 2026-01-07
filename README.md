@@ -6,8 +6,6 @@ I’m amenable to new opportunities, collaborations, or building connections.
 <p align="left">
     🤝 Find me on
   <a href="https://www.linkedin.com/in/shyam-vishwakarma">LinkedIn</a>
-    &nbsp;
-  <a href="https://x.com/_shyam_v?t=ADOyWzHN8x5WXXqHPL3Lrg&s=09">X (Twitter)</a>
 </p>
 
 <!---## 🚀 Experience
